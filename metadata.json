@@ -1,0 +1,6 @@
+{
+  "name": "Smart Fault Diagnosis System",
+  "description": "An industrial smart fault diagnosis system to analyze machinery logs, PLC sequences, sensor telemetry, and fault reports using AI-driven root cause and predictive maintenance algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
